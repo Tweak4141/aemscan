@@ -7,7 +7,7 @@ setup(
     include_package_data=True,
     package_data={'aemscan': ['aemscan/data/']},
     zip_safe=False,
-    url='https://github.com/raz0r/aemscan',
+    url='https://github.com/Tweak4141/aemscan',
     license='MIT',
     author='raz0r',
     author_email='me@raz0r.name',
